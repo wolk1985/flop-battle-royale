@@ -1,6 +1,9 @@
 # flop-battle-royale
 https://wolk1985.github.io/flop-battle-royale/
 
+<img width="975" height="883" alt="image" src="https://github.com/user-attachments/assets/089fcbaa-2b92-4e2d-8a64-ac1af3aae065" />
+
+
 A futuristic, automated stream simulator that fetches real-time logs from the Technocore.
 
 

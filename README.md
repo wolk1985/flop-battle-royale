@@ -1,4 +1,5 @@
 # flop-battle-royale
+https://wolk1985.github.io/flop-battle-royale/
 A futuristic, automated stream simulator that fetches real-time logs from the Technocore.
 
 
